@@ -1,0 +1,13 @@
+{
+              "workbench.colorCustomizations": {
+                            "titleBar.activeBackground": "#c0976d"
+              },
+              "spellchecker.ignoreWordsList": [
+                            "javaScript",
+                            "Criando",
+                            "Forma",
+                            "escrever",
+                            "Formatos",
+                            "diferentes"
+              ]
+}
