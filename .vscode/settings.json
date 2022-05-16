@@ -1,6 +1,6 @@
 {
               "workbench.colorCustomizations": {
-                            "titleBar.activeBackground": "#c0976d"
+                            "titleBar.activeBackground": "#baa3ac"
               },
               "spellchecker.ignoreWordsList": [
                             "javaScript",
@@ -9,5 +9,8 @@
                             "escrever",
                             "Formatos",
                             "diferentes"
+              ],
+              "cSpell.words": [
+                            "tofixed"
               ]
 }
